@@ -1,0 +1,24 @@
+html,body {
+   background-color: #008b8b;
+ }
+ #apresentacao {
+   text-align: center;
+   position: relative;
+   top: 200px;
+ }
+ h1{
+   font-size: 45px;
+}
+
+a{
+  padding-right: 5px
+}
+ nav{
+   background-color: hsl(181, 80%, 25%)
+   color:gray
+ }
+#barranav{
+  background-color: #008b8b;
+  height: 20px;
+  float: right;
+}
